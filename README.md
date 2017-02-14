@@ -1,5 +1,5 @@
 # Rockflash.py
-Recursive copy random mp3 files from a directory
+Recursive copy random mp3 files from the directory
 
 ## Requirements
 - python3
