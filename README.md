@@ -6,7 +6,6 @@ Recursive copy random mp3 files from the directory
 
 ## Usage
 ```bash
-cd /path/to/rockflash.py
-python rockflash.py
+python /path/to/rockflash.py
 ```
 p.s. threshold is the number of files to copy.
